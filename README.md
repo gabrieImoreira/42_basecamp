@@ -6,5 +6,6 @@ Uma ótima experiência a todos que tem interesse em programação, seja para in
 
 Minhas notas durante o percurso:
 
+![alt text](https://github.com/gabrieImoreira/42/blob/[branch]/image.jpg?raw=true)
 
 PS.: Alterações a partir do ex04 da Lista de C08, foram feitas apenas para aprendizado, não sendo passíveis de correção pela norminette/moulinette.
